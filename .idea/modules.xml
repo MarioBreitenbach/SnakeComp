@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SnakeComp.iml" filepath="$PROJECT_DIR$/SnakeComp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SnakeComp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SnakeComp_main.iml" group="SnakeComp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SnakeComp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SnakeComp_test.iml" group="SnakeComp" />
+    </modules>
+  </component>
+</project>
